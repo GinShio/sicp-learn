@@ -1,0 +1,3 @@
+* README for meme
+
+These memes are downloaded from [[https://gnupluslinux.com/anime/anime_girls_holding_books/sorted_holding_books/][gnupluslinux.com]].

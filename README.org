@@ -1,0 +1,13 @@
+#+title: Structure and Interpretation of Computer Programs
+#+subtitle: CS61A study notes
+
+* SICP learn
+
+Fall 2022, Instructors: John DeNero, Justin Yokota
+
+** Calendar
+|------+-----------+-----------------------------------+-------------------+-----------------+-----------------+--------------------|
+| Week | Date      | Lecture                           | Textbook          | Lab             | Discussion      | Homework & Project |
+|------+-----------+-----------------------------------+-------------------+-----------------+-----------------+--------------------|
+|    1 | Wed 08/24 | Computer Science ([[https://cs61a.org/assets/slides/01-Computer_Science_1pp.pdf][Slides]]) ([[https://www.youtube.com/watch?v=O-OtbEIsEik][Video]]) |                   | [[https://cs61a.org/lab/lab00/][Getting Started]] | [[https://cs61a.org/disc/disc00/][Getting Started]] |                    |
+|    1 | Fri 08/26 | Functions ([[https://cs61a.org/assets/slides/02-Functions_1pp.pdf][Slides]]) ([[https://www.youtube.com/watch?v=WGUTxWlaKTg&list=PL6BsET-8jgYUNyNgfP_7gub_LQup-km2_][Video]])        | [[http://composingprograms.com/pages/11-getting-started.html][Ch. 1.1]] & [[http://composingprograms.com/pages/12-elements-of-programming.html][Ch. 1.2]] |                 |                 | [[https://cs61a.org/hw/hw01/][Functions, Control]] |
